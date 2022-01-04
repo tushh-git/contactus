@@ -1,0 +1,142 @@
+#navbarNav{
+    margin-left: 420px;
+}
+
+.nav-item{
+    padding: 10px;
+    color: gray;
+}
+
+.heading{
+    padding-bottom: 18px;
+}
+
+.h1{
+    margin-bottom: 50px;
+}
+
+.icon1 {
+    background: #e78708;
+    padding:9px;
+    border-radius: 50%;
+    color: honeydew;
+    margin-left: 60px;
+    margin-bottom: 5px;
+}
+
+.email{
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+    font-weight: 600;
+}
+
+.icon2{
+    background: #e78708;
+    padding:9px;
+    border-radius: 50%;
+    color: honeydew;
+    margin-left: 60px;
+    margin-bottom: 5px;
+}
+
+.call{
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+    font-weight: 600;
+}
+
+.icon3{
+    background: #e78708;
+    padding:9px;
+    border-radius: 50%;
+    color: honeydew;
+    margin-left: 60px;
+}
+
+.location{
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+    font-weight: 600;
+}
+
+.empty{
+    margin-top: 50px;
+    margin-left: 180px;
+    background-color: lightgrey;
+    
+}
+
+/* contactus */
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #ffffff;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 2px solid orange;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    
+  }
+  
+  
+  
+  .container {
+    border-radius: 5px;
+  }
+
+  form{
+      width: 350px;
+      height: 20px;
+      margin-left: 70px;
+      padding: 2px;
+
+
+  }
+
+  #fname {
+      border-radius: 10px;
+  }
+
+  #lname{
+    border-radius: 10px;
+  }
+
+  .form-heading{
+      margin-left: 180px;
+      font-weight: bold;
+      
+  }
+
+  ::placeholder{
+      color: black;
+  }
+
+  .main-img{
+      width: 675px;
+      height: 370px;
+      margin-left: 480px;
+      margin-top: -15px;
+  }
+
+ 
+
+ 
+ 
